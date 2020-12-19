@@ -5,5 +5,5 @@ zT = xT*yT;
 console.log(zT);
 console.log('The answer is',zT);
 
-
-
+let inName = prompt("what's your name");
+console.log("Hi",'',inName);
